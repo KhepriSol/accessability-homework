@@ -25,7 +25,9 @@ h1 {
   color: #d9dcd6;
 }
 
-div {
+/* from the Nav element this displays everything in the navigation bad */
+
+nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -47,6 +49,8 @@ a {
 p {
   font-size: 16px;
 }
+
+/* "hero" class, this calls the image from the assets folder and sets it up behind the nav bar*/
 
 .hero {
   height: 800px;
@@ -72,6 +76,9 @@ main {
   display: inline-block;
   margin-left: 20px;
 }
+
+/* within the main elements the sections have a class of "box" everything below this forms the content in those blue boxes*/
+
 .box {
   margin-bottom: 20px;
   padding: 50px;
@@ -88,6 +95,8 @@ main {
   margin-bottom: 20px;
   font-size: 36px;
 }
+
+/* benefits and benfit selectors work within the aside section */
 
 .benefits {
   margin-right: 20px;

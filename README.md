@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 ## Description
-This purpose of this assignment was to go in and clean up as well as simplify the existing code. 
+The purpose of this assignment was to consolidate and reorganize the code, while also making the website more accessible for all users.
 
-## Authors
-
+![top of homepage](Develop/assets/screenshot/screenshot1.PNG)
+![bottom of home page](Develop/assets/screenshot/screenshot2.PNG)
 
